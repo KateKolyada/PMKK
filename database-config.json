@@ -1,1 +1,1 @@
-{ "ConnectionString": "mongodb+srv://user:dfghjk@cluster0.nyb50.mongodb.net/PMKK?retryWrites=true&w=majority}
+{ "ConnectionString": "mongodb+srv://user:1234@cluster0.nyb50.mongodb.net/pmkk?retryWrites=true&w=majority"}
